@@ -1,6 +1,5 @@
-
-import userRouter from './users.routes.js'
+import userRouter from './user.routes.js'
 
 export default{
     userRouter
-}
+} 

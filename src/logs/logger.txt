@@ -1,0 +1,2 @@
+[Sat Jan 10 2026 01:16:59 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--validations.registerSchema.validat is not a function
+[Sat Jan 10 2026 01:19:57 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--validations.registerSchema.validat is not a function
