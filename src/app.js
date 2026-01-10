@@ -12,7 +12,7 @@ app.use(fileUpload());
 app.use(indexRouter.userRouter);
 
 app.use((error, req, res, next) => {
-  if (error.status < 500) {
+  if (error.status && error.status < 500) {
     return res.status(error.status).json({
       status: error.status,
       message: error.message,

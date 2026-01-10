@@ -1,2 +1,4 @@
 [Sat Jan 10 2026 01:16:59 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--validations.registerSchema.validat is not a function
 [Sat Jan 10 2026 01:19:57 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--validations.registerSchema.validat is not a function
+[Sat Jan 10 2026 15:38:45 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--в сообщении Bind передано неверное число параметров (2, а подготовленный оператор "" требует 3)
+[Sat Jan 10 2026 15:39:46 GMT+0500 (Узбекистан, стандартное время)]--POST--/api/register--Cannot read properties of undefined (reading 'status')
